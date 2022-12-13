@@ -9,7 +9,7 @@
 - __GitHub:__ [VikaPikulik](https://github.com/VikaPikulik)
 
 ## __About Me__
-I have good interpersonal skill, am an excellent team worker and very willing to learn and develop new skills.\
+I have  a good interpersonal skill, am an excellent team worker and very willing to learn and develop new skills.\
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas. 
 
 ## __Skills__
