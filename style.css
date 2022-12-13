@@ -1,0 +1,16 @@
+.ts-oq.ts-oq {
+	overflow: auto;
+	padding: 0;
+	font-style: normal;
+	font-size: 100%;
+}
+
+.ts-oq .ref-info {
+	font-size: 100%;
+}
+
+.ts-oq-header {
+	background-color: #eaecf0; 
+	color: #72777d;
+	font-size: 95%;
+}
